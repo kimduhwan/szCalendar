@@ -1,0 +1,34 @@
+{
+    "name": "szCalendar",
+    "title": "jQuery szCalendar",
+    "description": "jQuery calendar plugin for dynamic cell animation",
+    "keywords": [
+        "calendar",
+        "datepicker",
+	"animation"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Kim duhwan",
+        "url": "http://bytestream.kr"
+    },
+    "maintainers": [
+        {
+            "name": "Kim duhwan",
+            "email": "netphantom@hanmail.net",
+            "url": "http://bytestream.kr"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://bytestream.kr/szCalendar/license.html"
+        }
+    ],
+    "homepage": "http://bytestream.kr/szCalendar",
+    "docs": "http://bytestream.kr/szCalendar/documentation.html",
+    "download": "http://bytestream.kr/szCalendar/szCalendar.zip",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
