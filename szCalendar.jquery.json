@@ -27,7 +27,7 @@
     ],
     "homepage": "http://bytestream.kr/szCalendar",
     "demo": "http://bytestream.kr/szCalendar/demo.html",
-    "docs": "http://bytestream.kr/szCalendar/documentation.html",
+    "docs": "http://bytestream.kr/szCalendar/documentation.html", 
     "download": "http://bytestream.kr/szCalendar/szCalendar.zip",
     "dependencies": {
         "jquery": ">=1.9"
